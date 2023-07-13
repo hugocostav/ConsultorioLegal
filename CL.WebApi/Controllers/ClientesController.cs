@@ -1,4 +1,4 @@
-﻿using CL.Data.Domain;
+﻿using CL.Core.Domain;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;

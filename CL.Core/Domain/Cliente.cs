@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CL.Data.Domain
+namespace CL.Core.Domain
 {
     public class Cliente
     {
